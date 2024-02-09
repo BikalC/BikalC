@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Bikal Chalise
-- 👀 I’m interested in creating the visual from data
-- 🌱 I’m currently learning AWS 
-- 💞️ I’m looking to collaborate on more data
-- 📫 How to reach me e.bikalchalise@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
  # Bikal K Chalise
 
 #### Toronto, ON, Canada |  e.bikalchalise@gmail.com |  (416) 669-9376 
